@@ -21,10 +21,10 @@
 ###### Libraries:
 1.) **numpy**: Python libraries multidimensional arrays and matrices.  
 2.) **keras**: Keras is an open-source neural-network library written in Python. Used for Dataset extraction.
-  
-  
-  
-
+<br />
+<br />
+<br />
+<br />
 ## Part 1-B (Classification – ‘mnist’ dataset) 
   
   
@@ -42,10 +42,10 @@
 ###### Libraries:
 1.) **numpy**: Python libraries multidimensional arrays and matrices.  
 2.) **keras**: Keras is an open-source neural-network library written in Python. Used for Dataset extraction.
-  
-  
-  
-  
+<br />
+<br />
+<br />
+<br />  
 ## Part 2 (Regression - Salary_Data) 
   
   
