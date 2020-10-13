@@ -2,8 +2,6 @@
 ***"Implementation of Incremental Extreme Learning Machine [I-ELM] to deepen the understanding of the random network"***
 <br />
 <br />
-<br />
-<br />
 ## Part 1-A (Classification – ‘cifar10’ dataset)
   
   
