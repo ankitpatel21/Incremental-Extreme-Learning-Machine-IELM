@@ -1,9 +1,12 @@
 # Incremental-Extreme-Learning-Machine-IELM
-Implementation of Incremental Extreme Learning Machine [I-ELM] to deepen the understanding of the random network
+"Implementation of Incremental Extreme Learning Machine [I-ELM] to deepen the understanding of the random network"
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 --------------- Part 1-A (Classification – ‘cifar10’ dataset) -----------------------
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 Dataset:
 ‘cifar10’ - Dataset contains 60,000 32x32 color images in 10 different classes.
@@ -21,9 +24,14 @@ Libraries:
 2.) keras: Keras is an open-source neural-network library written in Python. Used for Dataset extraction.
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 --------------- Part 1-B (Classification – ‘mnist’ dataset) -----------------------
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 Dataset:
 ‘mnist’ - Database of handwritten digits containing training set of 60,000 examples, and a test set of 10,000 examples.
@@ -41,9 +49,13 @@ Libraries:
 2.) keras: Keras is an open-source neural-network library written in Python. Used for Dataset extraction.
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 --------------- Part 2 (Regression - Salary_Data) -----------------------
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 Dataset:
 Salary_Data - Database with salary details.
